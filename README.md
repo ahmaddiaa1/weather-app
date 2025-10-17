@@ -182,6 +182,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Radix UI](https://www.radix-ui.com/) for accessible components
 - [Lucide](https://lucide.dev/) for the beautiful icons
 
-- ### Demo Link
-You can view Demo version[here](https://simple-todo-list-three-nu.vercel.app/).
+## 🧠 Project Overview
+A weather app built with React and OpenWeather API.  
+🌤 **[View Live Demo →](https://simple-todo-list-three-nu.vercel.app/)**
 
