@@ -183,6 +183,5 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Lucide](https://lucide.dev/) for the beautiful icons
 
 - ### Demo Link
-```bash
-[https://simple-todo-list-three-nu.vercel.app](https://simple-todo-list-three-nu.vercel.app/)
-```
+You can view Demo version[here](https://simple-todo-list-three-nu.vercel.app/).
+
