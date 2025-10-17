@@ -184,5 +184,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🧠 Project Overview
 A weather app built with React and OpenWeather API.  
-🌤 **[View Live Demo →](https://simple-todo-list-three-nu.vercel.app/)**
+🌤 **[View Live Demo →](https://weather-app-pi-jet-24.vercel.app/)**
 
